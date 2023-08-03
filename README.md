@@ -1,4 +1,10 @@
-# ashnazg
+# Ash Nazg
+
+## Description
+
+If you know, you know.
+
+## Neon Boilerplate - 
 
 This project was bootstrapped by [create-neon](https://www.npmjs.com/package/create-neon).
 
